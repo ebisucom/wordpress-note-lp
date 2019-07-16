@@ -1,0 +1,285 @@
+@charset "UTF-8";
+
+/* 基本設定 */
+body {
+	grid-row-gap: 0;
+	row-gap: 0;
+}
+
+.mymain {
+	font-family: 'Montserrat', sans-serif;
+}
+
+@media (max-width: 1023px) {
+	.mymain {
+		margin-top: 20px;
+	}
+}
+
+/* セクションの見出し（共通） */
+.sec-title {
+	color: #dddddd;
+	text-align: center;
+	grid-column: 1 / -1;
+}
+
+.sec-title + p {
+	font-size: var(--f6);
+	text-align: center;
+	grid-column: 1 / -1;
+}
+
+/* ヒーローヘッダー */
+.myhero {
+	min-height: 70vh;
+	background-image: 
+		linear-gradient(
+			rgba(0,0,0,0.3), 
+			rgba(0,0,0,0.3)
+			),
+		url(img/hero.jpg);
+	background-size: cover;
+	background-position: center;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 0 0 5px rgba(0,0,0,0.8);
+}
+
+.myhero p {
+	margin: 0;
+	font-weight: bold;
+}
+
+.myhero a {
+	margin-top: 32px;
+	padding: 12px 24px;
+	border-radius: 28px;
+	background-color: #fcb900;
+	color: #333333;
+	text-shadow: none;
+	justify-self: center;
+}
+
+/* コンセプト */
+.mycon {
+	grid-column: 2 / -2;
+	padding: 50px 0;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-column-gap: 32px;
+	column-gap: 32px;
+}
+
+.mycon div {
+	margin: 32px 0;
+	text-align: center;
+}
+
+.mycon img {
+	width: 100px;
+}
+
+.mycon h3 {
+	font-size: var(--f4);
+}
+
+.mycon h3 + p {
+	font-size: var(--f6);
+}
+
+@media (max-width: 768px) {
+	.mycon {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media (max-width: 500px) {
+	.mycon {
+		grid-template-columns: 1fr;
+	}
+}
+
+/* ポイント（１） */
+.mypoint1 {
+	min-height: 430px;
+	background-image: 
+		linear-gradient(
+			rgba(0,0,0,0.5), 
+			rgba(0,0,0,0.5)
+			),
+		url(img/point1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 0 0 5px rgba(0,0,0,0.8);
+}
+
+/* 最新記事 */
+.mynews {
+	grid-column: 2 / -2;
+	padding: 50px 0;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-column-gap: 32px;
+	column-gap: 32px;
+}
+
+.mynews h2 + p {
+	margin-bottom: 32px;
+}
+
+.mynews figure {
+	margin: 0;
+}
+
+.mynews h3 {
+	margin: 10px 0 40px;
+	font-size: var(--f5);
+}
+
+@media (max-width: 768px) {
+	.mynews {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media (max-width: 500px) {
+	.mynews {
+		grid-template-columns: 1fr;
+	}
+}
+
+/* ポイント（２） */
+.mypoint2 {
+	display: grid;
+	grid-template-columns: 55% 1fr;
+	background-color: #eeeeee;
+}
+
+.mypoint2 figure {
+	margin: 0;
+}
+
+.mypoint2 img {
+	vertical-align: bottom;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.mypoint2 div {
+	align-self: center;
+	padding: 50px;
+}
+
+.mypoint2 p:first-of-type {
+	font-size: var(--f2);
+}
+
+@media (max-width: 767px) {
+	.mypoint2 {
+		grid-template-columns: 1fr;
+	}
+	.mypoint2 div {
+		padding: 20px;
+	}
+	.mypoint2 p:first-of-type {
+		font-size: var(--f3);
+	}
+	.mypoint2 p:last-of-type {
+		font-size: var(--f6);
+	}
+}
+
+/* 利用者の声 */
+.mytest {
+	grid-column: 2 / -2;
+	padding: 50px 0;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-column-gap: 32px;
+	column-gap: 32px;
+}
+
+.mytest h2 + p {
+	margin-bottom: 32px;
+}
+
+.mytest > div {
+	display: grid;
+	grid-template-columns: 20% 1fr;
+	grid-column-gap: 20px;
+	column-gap: 20px;
+	align-items: center;
+	margin-bottom: 20px;
+	padding: 10px 20px;
+	border-radius: 20px;
+}
+
+.mytest > div.mytest1 {
+	background-color: #ffa361;
+}
+
+.mytest > div.mytest2 {
+	background-color: #fcb900;
+}
+
+.mytest figure {
+	margin: 0;
+}
+
+.mytest img {
+	border-radius: 50%;
+}
+
+.mytest p:last-of-type {
+	color: #444444;
+}
+
+@media (max-width: 500px) {
+	.mytest {
+		grid-template-columns: 1fr;
+	}
+}
+
+/* アクション */
+.myaction {
+	min-height: 430px;
+	background-image: 
+		linear-gradient(
+			rgba(18, 101, 156, 0.7), 
+			rgba(18, 101, 156, 0.7)
+			),
+		url(img/action.jpg);
+	background-size: cover;
+	background-position: center;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: none;
+}
+
+.myaction p:first-of-type {
+	margin-bottom: 20px;
+	font-size: var(--f1);
+}
+
+.myaction a {
+	margin-top: 32px;
+	padding: 12px 24px;
+	border-radius: 28px;
+	background-color: #bdfd1c;
+	color: #333333;
+	text-shadow: none;
+	justify-self: center;
+}

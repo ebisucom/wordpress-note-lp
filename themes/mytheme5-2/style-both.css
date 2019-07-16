@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/* 画像ブロックの高さをアレンジ */
+.is-style-my50vh img {
+	max-height: 50vh;
+	object-fit: cover;
+}

@@ -1,0 +1,5 @@
+{
+  "__file": "wp_block",
+  "title": "利用者の声",
+  "content": "<!-- wp:media-text {\"align\":\"\",\"customBackgroundColor\":\"#ffa361\",\"mediaId\":6063,\"mediaType\":\"image\",\"mediaWidth\":20,\"className\":\"is-style-lpcard\"} -->\n<div class=\"wp-block-media-text is-style-lpcard\" style=\"background-color:#ffa361;grid-template-columns:20% auto\"><figure class=\"wp-block-media-text__media\"><img src=\"https://raw.githubusercontent.com/ebisucom/wordpress-note-lp/master/img/test1.jpg\" alt=\"\" class=\"wp-image-6063\"/></figure><div class=\"wp-block-media-text__content\"><!-- wp:paragraph -->\n<p>その日の気分に合わせてワークスペースを選ぶことができたのでとても便利でした。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>TANAKA HANAKO</strong><br> Designer</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->"
+}

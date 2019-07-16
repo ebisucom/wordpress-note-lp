@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+/* フォント */
+.editor-block-list__layout,
+.myblocks {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.editor-block-list__layout {
+	--f1: 2.44em;
+	--f2: 1.95em;
+	--f3: 1.56em;
+	--f4: 1.25em;
+	--f5: 1em;
+	--f6: 0.8em;
+}
+
+/* 高さをアレンジ */
+.is-style-lpheight {
+	min-height: 70vh;
+}
+
+/* 影をつける */
+.is-style-lpshadow {
+	text-shadow: 0 0 5px rgba(0,0,0,0.8);
+}
+
+/* コンセプト */
+.is-style-lpconcepts {
+	margin-bottom: 70px;
+}
+
+.is-style-lpconcepts.wp-block-columns h3 {
+	font-size: var(--f4);
+}
+
+
+/* 最新記事 */
+.is-style-lpposts.ugb-blog-posts h3 {
+	font-size: var(--f5);
+}
+
+.is-style-lpposts h3 a {
+	color:#444444;
+}
+
+.is-style-lpposts {
+	row-gap: 32px;
+	margin-bottom: 60px;
+}
+
+
+/* メディアと文章：高さアレンジ（カラム塗りつぶし） */
+@media (min-width: 601px) {
+	.is-style-lpmedia.is-image-fill figure {
+		min-height: 480px;
+	}
+}
+
+/* メディアと文章：カード型 */
+.is-style-lpcard {
+	padding: 10px 20px;
+	border-radius: 20px;
+}
+
+.is-style-lpcard img {
+	border-radius: 50%;
+}

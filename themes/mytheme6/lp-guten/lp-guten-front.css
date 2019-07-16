@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* 基本設定 */
+body {
+	grid-row-gap: 0;
+	row-gap: 0;
+}
+
+@media (max-width: 1023px) {
+	.mymain {
+		margin-top: 20px;
+	}
+}

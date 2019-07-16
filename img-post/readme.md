@@ -1,0 +1,44 @@
+# サンプル記事（投稿）で使用する画像ファイル
+
+サンプル記事（投稿）で使用する画像ファイルです。
+※サンプル記事のインポートデータで読み込むことができます。
+
+[Pixabay](https://pixabay.com/)の[CC0](https://creativecommons.jp/sciencecommons/cc0-faq/)の画像を使用しています。
+
+### clock.jpg
+https://pixabay.com/photos/time-alarm-clock-clock-watch-hour-2980690/
+
+### spice.jpg
+https://pixabay.com/photos/spoon-wood-wooden-food-cooking-3368750/
+
+### egg.jpg
+https://pixabay.com/photos/background-baker-baking-cooking-906135/
+
+### pen.jpg
+https://pixabay.com/photos/colored-pencils-colour-pencils-star-374771/
+
+### hook.jpg
+https://pixabay.com/photos/hook-wall-mounted-hook-bedroom-2422317/
+
+### para.jpg
+https://pixabay.com/photos/parachute-fly-blue-sports-wind-3711753/
+
+### jar.jpg
+https://pixabay.com/photos/mason-jar-beer-brew-booze-alcohol-2631771/
+
+### popcorn.jpg
+https://pixabay.com/photos/popcorn-movies-cinema-entertainment-1085072/
+
+### road.jpg
+https://pixabay.com/photos/warning-traffic-bicycle-road-3186802/
+
+### wine.jpg
+https://pixabay.com/photos/wine-bio-new-year-s-eve-holidays-1079707/
+
+### lemon.jpg
+https://pixabay.com/photos/lemon-lemonade-fruit-sour-yellow-1444025/
+
+### dessert.jpg
+https://pixabay.com/photos/dessert-food-macaroons-macro-1850216/
+
+

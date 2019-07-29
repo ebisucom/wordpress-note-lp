@@ -1,13 +1,11 @@
 # 『グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）』 ダウンロードデータ
 
-
-
 電子書籍 [『グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）』［エビスコム 編著］](https://ep.ebisu.com/wordpress-note-lp/) のダウンロードデータです。
+
+Amazon Kindle（プリントレプリカ形式）のテキストのコピーについては [エビスコムの著者NOTE](https://ebisu.com/note/amazon-kindle-text-copy/) を参照してください。
 
 
 ![グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）](https://repository-images.githubusercontent.com/197099407/70b3ef80-a819-11e9-8a39-c0b0b5ec759f)
-
-
 
 
 ## ■「themes」フォルダ

@@ -1,5 +1,5 @@
 {
   "__file": "wp_block",
   "title": "セクションの見出しとテキスト",
-  "content": "<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"customTextColor\":\"#dddddd\"} -->\n<h2 class=\"has-text-align-center\" style=\"color:#dddddd\">CONCEPTS</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p style=\"text-align:center\" class=\"has-small-font-size\">すべてが揃う。そんな場所を目指しています。</p>\n<!-- /wp:paragraph -->"
+  "content": "<!-- wp:spacer {\"height\":50} -->\n<div style=\"height:50px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"customTextColor\":\"#dddddd\"} -->\n<h2 class=\"has-text-color has-text-align-center\" style=\"color:#dddddd\">CONCEPTS</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-align-center has-small-font-size\">すべてが揃う。そんな場所を目指しています。</p>\n<!-- /wp:paragraph -->"
 }

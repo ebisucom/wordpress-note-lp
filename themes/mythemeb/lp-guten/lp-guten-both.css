@@ -59,6 +59,7 @@
 
 /* メディアと文章：カード型 */
 .is-style-lpcard {
+	margin-bottom: 20px;
 	padding: 10px 20px;
 	border-radius: 20px;
 }

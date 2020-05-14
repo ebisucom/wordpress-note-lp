@@ -6,7 +6,7 @@ body {
 	font-family: sans-serif;
 }
 
-.block-editor-block-list__block[data-type="core/paragraph"] p {
+p {
 	line-height: 2;
 }
 

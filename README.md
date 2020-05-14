@@ -5,7 +5,7 @@
 Amazon Kindle（プリントレプリカ形式）のテキストのコピーについては [エビスコムの著者NOTE](https://ebisu.com/note/amazon-kindle-text-copy/) を参照してください。
 
 
-![グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）](https://repository-images.githubusercontent.com/197099407/b917cf80-108d-11ea-9142-664db052b1c8)
+![グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）](https://ep.ebisu.com/github/wordpress-note-lp-social54.jpg)
 
 
 ## ■「themes」フォルダ

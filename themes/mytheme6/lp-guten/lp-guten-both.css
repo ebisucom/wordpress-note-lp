@@ -44,7 +44,7 @@
 	color:#444444;
 }
 
-.is-style-lpposts {
+.is-style-lpposts.ugb-blog-posts .ugb-block-content {
 	row-gap: 32px;
 	margin-bottom: 60px;
 }

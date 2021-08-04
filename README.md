@@ -1,11 +1,28 @@
 # 『グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）』 ダウンロードデータ
 
-電子書籍 [『グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）』［エビスコム 編著］](https://ep.ebisu.com/wordpress-note-lp/) のダウンロードデータです。
 
-Amazon Kindle（プリントレプリカ形式）のテキストのコピーについては [エビスコムの著者NOTE](https://ebisu.com/note/amazon-kindle-text-copy/) を参照してください。
+![グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）](https://repository-images.githubusercontent.com/197099407/764c85ac-8536-4a6c-bb40-b6c8705e985e)
 
 
-![グーテンベルク時代のWordPressノート テーマの作り方 2（ランディングページ＆ワンカラムサイト編）](https://ep.ebisu.com/social/wordpress-note-lp-social55.jpg)
+* [書籍情報](https://ep.ebisu.com/wordpress-note-lp/)
+* [Amazon Kindle 書籍ページ](https://amzn.to/2M0SVz3)
+
+## ■収録内容について
+
+---
+
+**まずは「[サポートPDF（support.pdf）](https://github.com/ebisucom/wordpress-note-lp/blob/master/support.pdf)」に目を通してご利用ください。**
+
+- サポートPDFを追加しました。**WordPress 5.8** への対応方法を追加しています。［2021年8月5日］
+
+- 最新の情報は著者NOTE（https://ebisu.com/notecat/wordpress/ ） や Twitter ( https://twitter.com/ebisucom ) でも出していますので、参考にしてください。
+
+---
+
+本書で作成するテーマや、使用する画像データを収録しています。
+サンプルの作成方法などについては、本書を参照してください。
+
+※Amazon Kindle（プリントレプリカ形式）のテキストのコピーについては [エビスコムの著者NOTE](https://ebisu.com/note/amazon-kindle-text-copy/) を参照してください。
 
 
 ## ■「themes」フォルダ
@@ -109,5 +126,3 @@ contents.xml  | 12件の記事（投稿）と２件の固定ページ（サイ�
 本書の内容および本ダウンロードデータは参照用・学習用としてのみ使用されるべきものであり、予告なしに変更されることがあります。
 
 本書に記載されている内容や本ダウンロードデータの運用によって、いかなる損害が生じても、エビスコムは責任を負いかねますので、あらかじめご了承ください。
-
-
